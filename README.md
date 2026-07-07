@@ -34,3 +34,4 @@ A simple and responsive weather application that allows users to search for **an
 ---
 
 > 💡 **Example:** Search for **London**, **Tokyo**, or **New York** to instantly see the current weather.
+> **Api_key is from openweathermap**
